@@ -3,7 +3,7 @@
   "header": {
     "name": "みんなで楽しくアドオン作り",
     "description": "みんなでつくりました～",
-    "uuid": "6460f038-e72e-4724-95a9-cfcda65f1acb",
+    "uuid": "6460f038-e72e-4724-95a9-cfcda65f1bbb",
     "version": [0, 0, 1],
     "min_engine_version": [1, 21, 100]
   },
