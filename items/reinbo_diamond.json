@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "custom:reinbo_diamond",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "虹のダイヤモンド",
+      "minecraft:display_name": {
+        "value": "虹のダイヤモンド"
+      },
+      "minecraft:allow_off_hand": true,
+      "minecraft:hand_equipped": false
+    }
+  }
+}
